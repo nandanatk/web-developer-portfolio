@@ -1,0 +1,29 @@
+<html>
+<head>
+	<title>PORTFOLIO</title>
+</head>
+<style>
+body{
+	background-color: powderblue;
+}
+
+h1{
+	
+	color:blue;
+	text-align:center;
+}	
+
+</style>
+
+<body>
+
+	<br><br>
+	<h1>Hello, I'm Nandana.</h1><br>
+	<h1>I'm a full stack web developer.
+	<br><br><br><br>
+	<button><a href="file:///C:/Users/User/Desktop/WEB%20PROJECT/MAIN.html">View my work</a></button>
+
+
+</body>
+</html>
+	

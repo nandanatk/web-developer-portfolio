@@ -1,0 +1,32 @@
+<html>
+<head>
+	<title>PORTFOLIO</title>
+</head>
+<style>
+
+
+h1{
+	
+	color:Crimson;
+	font-size:80px;
+	text-align:center;
+}	
+
+</style>
+
+<body background="download.jpg" width="500">
+
+	<center>
+	<img src="nandu.jpg" style="width:200px; height:350px;">
+	</center>
+	<h1>HELLO</h1>
+	<h1>I'M NANDANA</h1><br>
+	<h2 align="center">I'AM A CREATIVE WEB DEVELOPER.</h2>
+	<br>
+	<center>
+	<button><a href="MAIN.html">VIEW MY WORK</a></button>
+
+	</center>
+</body>
+</html>
+	

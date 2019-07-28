@@ -1,0 +1,26 @@
+<html>
+<head>
+	<title>PORTFOLIO</title>
+</head>
+<style>
+h1 {
+
+	text-align:center;
+	font-size:120px;
+	
+}
+
+
+
+</style>
+<body background="images.jpg">
+
+	<h1>MY PROJECTS</h1>
+	<img src="images1.jpg" hspace="25" width="350" height="300"/>
+	<img src="images2.jpg" hspace="25" width="350" height="300"/>
+	<img src="images3.jpg" hspace="25" width="350" height="300"/>
+	<img src="images4.jpg" hspace="25" width="350" height="300"/>
+	<img src="images5.jpg" hspace="25" width="350" height="300"/>
+	<img src="images6.jpg" hspace="25" width="350" height="300"/>
+</body>
+</html>

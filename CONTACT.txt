@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CONTACT</title>
+</head>
+<style>
+
+
+h1 {
+	color:Crimson;
+	text-align: center;
+	font-size:110px;
+}
+
+.important{
+   background-color: powderblue ;
+}
+
+
+
+
+</style>
+<body background ="contact.jpg">
+
+	<h1 class="intro important"><u>CONTACT</u></h1>
+<form>
+	Your FullName:<br>
+	<input type="text" name="your name"><br><br>
+	E-mail id:<br>
+	<input type="text" name="e-mail"><br><br>
+	Subject:<br>
+	<input type="text" name="subject"><br><br>
+	<button>SEND</button>
+	
+</div>
+</body>
+</html>
